@@ -25,6 +25,8 @@
 .link_button {
   color:#169BD5;
 }
+._图片 {
+}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -101,7 +103,7 @@
 .marker {
   color:#FFFFFF;
 }
-._图片 {
+._图片1 {
   color:#000000;
 }
 .flow_shape {
